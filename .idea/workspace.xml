@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04d6d98c-35a1-4c3a-85d3-3baf1e63eb40" name="Default" comment="" />
+    <ignored path="php-ml.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="php-ml" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.82116246">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="e#44#87#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vendor/phpai/phpml/src/Phpml/Classification/KNearestNeighbors.php" />
+        <option value="$PROJECT_DIR$/vendor/php-ai/php-ml/src/Phpml/Helper/Trainable.php" />
+        <option value="$PROJECT_DIR$/Phpml/Helper/Predictable.php" />
+        <option value="$PROJECT_DIR$/index2.php" />
+        <option value="$PROJECT_DIR$/vendor/Phpml/Classification/KNearestNeighbors.php" />
+        <option value="$PROJECT_DIR$/vendor/Phpml/Helper/Trainable.php" />
+        <option value="$PROJECT_DIR$/vendor/php-ai/php-ml/src/Phpml/Helper/Predictable.php" />
+        <option value="$PROJECT_DIR$/vendor/Phpml/Helper/Predictable.php" />
+        <option value="$PROJECT_DIR$/vendor/Phpml/Math/Statistic/Mean.php" />
+        <option value="$PROJECT_DIR$/vendor/Phpml/Classification/NaiveBayes.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/vendor/Phpml/Association/Apriori.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-ml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-ml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-ml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-ml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-ml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\php-ml" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04d6d98c-35a1-4c3a-85d3-3baf1e63eb40" name="Default" comment="" />
+      <created>1512302268181</created>
+      <option name="number" value="Default" />
+      <updated>1512302268181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15355521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/Phpml/Classification/NaiveBayes.php</url>
+          <line>17</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/Phpml/Helper/Predictable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <marker date="1512485101230" expanded="true" signature="75:620" placeholder="{...}" />
+            <marker date="1512485101230" expanded="true" signature="85:148" placeholder=" @param array $samples ..." />
+            <marker date="1512485101230" expanded="true" signature="194:483" placeholder="{...}" />
+            <marker date="1512485101230" expanded="true" signature="238:298" placeholder="..." />
+            <marker date="1512485101230" expanded="true" signature="375:448" placeholder="..." />
+            <marker date="1512485101230" expanded="true" signature="492:554" placeholder=" @param array $sample ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#44#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/Phpml/Classification/Classifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22652757">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-ai/php-ml/src/Phpml/Math/Distance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16989568">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/Phpml/Pipeline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.113263786">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-ai/php-ml/src/Phpml/Classification/KNearestNeighbors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22652757">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94336814">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16989568">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/Phpml/Classification/KNearestNeighbors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22619048">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1512304865172" expanded="true" signature="70:183" placeholder="..." />
+            <marker date="1512304865172" expanded="true" signature="230:1705" placeholder="{...}" />
+            <marker date="1512304865172" expanded="true" signature="273:295" placeholder=" @var int ..." />
+            <marker date="1512304865172" expanded="true" signature="322:349" placeholder=" @var Distance ..." />
+            <marker date="1512304865172" expanded="true" signature="389:484" placeholder=" @param Distance|null $distanceMetric (if null then Euclidean distance as default) ..." />
+            <marker date="1512304865172" expanded="true" signature="563:803" placeholder="{...}" />
+            <marker date="1512304865172" expanded="true" signature="609:665" placeholder="..." />
+            <marker date="1512304865172" expanded="true" signature="812:839" placeholder=" @return mixed ..." />
+            <marker date="1512304865172" expanded="true" signature="893:1285" placeholder="{...}" />
+            <marker date="1512304865172" expanded="true" signature="1122:1183" placeholder="..." />
+            <marker date="1512304865172" expanded="true" signature="1294:1357" placeholder=" @throws \Phpml\Exception\InvalidArgumentException ..." />
+            <marker date="1512304865172" expanded="true" signature="1423:1703" placeholder="{...}" />
+            <marker date="1512304865172" expanded="true" signature="1513:1608" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-ai/php-ml/src/Phpml/Helper/Trainable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6220238">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+          <folding>
+            <marker date="1512303697723" expanded="true" signature="73:479" placeholder="{...}" />
+            <marker date="1512303697723" expanded="true" signature="83:107" placeholder=" @var array ..." />
+            <marker date="1512303697723" expanded="true" signature="145:169" placeholder=" @var array ..." />
+            <marker date="1512303697723" expanded="true" signature="207:271" placeholder=" @param array $samples ..." />
+            <marker date="1512303697723" expanded="true" signature="337:477" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-ai/php-ml/src/Phpml/Helper/Predictable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36160713">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1512484984087" expanded="true" signature="75:620" placeholder="{...}" />
+            <marker date="1512484984087" expanded="true" signature="85:148" placeholder=" @param array $samples ..." />
+            <marker date="1512484984087" expanded="true" signature="194:483" placeholder="{...}" />
+            <marker date="1512484984087" expanded="true" signature="238:298" placeholder="..." />
+            <marker date="1512484984087" expanded="true" signature="375:448" placeholder="..." />
+            <marker date="1512484984087" expanded="true" signature="492:554" placeholder=" @param array $sample ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/Phpml/Helper/Trainable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65029764">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <marker date="1512484937782" expanded="true" signature="73:473" placeholder="{...}" />
+            <marker date="1512484937782" expanded="true" signature="83:107" placeholder=" @var array ..." />
+            <marker date="1512484937782" expanded="true" signature="145:169" placeholder=" @var array ..." />
+            <marker date="1512484937782" expanded="true" signature="207:271" placeholder=" @param array $samples ..." />
+            <marker date="1512484937782" expanded="true" signature="331:471" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/Phpml/Helper/Predictable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4747024">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1512485101230" expanded="true" signature="75:620" placeholder="{...}" />
+            <marker date="1512485101230" expanded="true" signature="85:148" placeholder=" @param array $samples ..." />
+            <marker date="1512485101230" expanded="true" signature="194:483" placeholder="{...}" />
+            <marker date="1512485101230" expanded="true" signature="238:298" placeholder="..." />
+            <marker date="1512485101230" expanded="true" signature="375:448" placeholder="..." />
+            <marker date="1512485101230" expanded="true" signature="492:554" placeholder=" @param array $sample ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/Phpml/Math/Statistic/Mean.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74553573">
+          <caret line="58" column="58" selection-start-line="58" selection-start-column="58" selection-end-line="58" selection-end-column="58" />
+          <folding>
+            <marker date="1512485459053" expanded="true" signature="123:1366" placeholder="{...}" />
+            <marker date="1512485459053" expanded="true" signature="133:179" placeholder=" @throws InvalidArgumentException ..." />
+            <marker date="1512485459053" expanded="true" signature="243:352" placeholder="{...}" />
+            <marker date="1512485459053" expanded="true" signature="361:441" placeholder=" @return float|mixed ..." />
+            <marker date="1512485459053" expanded="true" signature="493:844" placeholder="{...}" />
+            <marker date="1512485459053" expanded="true" signature="737:812" placeholder="..." />
+            <marker date="1512485459053" expanded="true" signature="853:927" placeholder=" @return mixed ..." />
+            <marker date="1512485459053" expanded="true" signature="977:1133" placeholder="{...}" />
+            <marker date="1512485459053" expanded="true" signature="1142:1188" placeholder=" @throws InvalidArgumentException ..." />
+            <marker date="1512485459053" expanded="true" signature="1249:1364" placeholder="{...}" />
+            <marker date="1512485459053" expanded="true" signature="1284:1357" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/Phpml/Classification/NaiveBayes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45238096">
+          <caret line="59" column="57" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
+          <folding>
+            <marker date="1512485557872" expanded="false" signature="70:198" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="238:5487" placeholder="{...}" />
+            <marker date="1512485557872" expanded="true" signature="357:381" placeholder=" @var array ..." />
+            <marker date="1512485557872" expanded="true" signature="415:439" placeholder=" @var array ..." />
+            <marker date="1512485557872" expanded="true" signature="474:498" placeholder=" @var array ..." />
+            <marker date="1512485557872" expanded="true" signature="541:565" placeholder=" @var array ..." />
+            <marker date="1512485557872" expanded="true" signature="604:628" placeholder=" @var array ..." />
+            <marker date="1512485557872" expanded="true" signature="660:682" placeholder=" @var int ..." />
+            <marker date="1512485557872" expanded="true" signature="723:745" placeholder=" @var int ..." />
+            <marker date="1512485557872" expanded="true" signature="787:811" placeholder=" @var array ..." />
+            <marker date="1512485557872" expanded="true" signature="898:1494" placeholder="{...}" />
+            <marker date="1512485557872" expanded="true" signature="1294:1487" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="1503:1653" placeholder=" Calculates vital statistics for each label &amp; feature. Stores these ..." />
+            <marker date="1512485557872" expanded="true" signature="1727:3135" placeholder="{...}" />
+            <marker date="1512485557872" expanded="true" signature="2103:3128" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="2527:2872" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="2756:2857" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="2789:2851" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="2880:3118" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="3144:3202" placeholder=" Calculates the probability P(label|sample_n) ..." />
+            <marker date="1512485557872" expanded="true" signature="3287:4338" placeholder="{...}" />
+            <marker date="1512485557872" expanded="true" signature="3395:3666" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="3538:3589" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="3769:4195" placeholder="//..." />
+            <marker date="1512485557872" expanded="true" signature="4347:4403" placeholder=" Return samples belonging to specific label ..." />
+            <marker date="1512485557872" expanded="true" signature="4459:4695" placeholder="{...}" />
+            <marker date="1512485557872" expanded="true" signature="4542:4662" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="4590:4652" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="4704:4731" placeholder=" @return mixed ..." />
+            <marker date="1512485557872" expanded="true" signature="4785:5485" placeholder="{...}" />
+            <marker date="1512485557872" expanded="true" signature="5115:5369" placeholder="..." />
+            <marker date="1512485557872" expanded="true" signature="5209:5320" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/Phpml/Association/Apriori.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5424739">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding>
+            <marker date="1512486000659" expanded="false" signature="67:120" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="157:8150" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="386:479" placeholder=" Minimum relative probability of frequent transactions. ..." />
+            <marker date="1512486000659" expanded="true" signature="515:611" placeholder=" The large set contains frequent k-length item sets. ..." />
+            <marker date="1512486000659" expanded="true" signature="642:724" placeholder=" Minimum relative frequency of transactions. ..." />
+            <marker date="1512486000659" expanded="true" signature="757:840" placeholder=" The generated Apriori association rules. ..." />
+            <marker date="1512486000659" expanded="true" signature="871:905" placeholder=" Apriori constructor. ..." />
+            <marker date="1512486000659" expanded="true" signature="986:1074" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="1083:1212" placeholder=" Get all association rules which are generated for every k-length frequent item set. ..." />
+            <marker date="1512486000659" expanded="true" signature="1245:1507" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="1280:1334" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="1364:1406" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="1516:1593" placeholder=" Generates frequent item sets. ..." />
+            <marker date="1512486000659" expanded="true" signature="1625:1904" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="1770:1877" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="1913:1981" placeholder=" @param mixed[] $sample ..." />
+            <marker date="1512486000659" expanded="true" signature="2035:2358" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="2075:2228" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="2088:2227" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="2139:2226" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="2257:2350" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="2275:2338" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="2367:2432" placeholder=" Generate rules for each k-length frequent item set. ..." />
+            <marker date="1512486000659" expanded="true" signature="2474:2668" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="2535:2661" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="2589:2651" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="2677:2777" placeholder=" Generate confident rules for frequent item set. ..." />
+            <marker date="1512486000659" expanded="true" signature="2831:3429" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="2902:3422" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="3000:3412" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="3115:3397" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="3438:3572" placeholder=" Generates the power set for given item set $sample. ..." />
+            <marker date="1512486000659" expanded="true" signature="3619:3857" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="3687:3824" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="3736:3814" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="3866:4022" placeholder=" Generates all proper subsets for given set $sample without the empty set. ..." />
+            <marker date="1512486000659" expanded="true" signature="4072:4351" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="4196:4343" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="4253:4342" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="4360:4946" placeholder=" Calculates frequent k = 1 item sets. ..." />
+            <marker date="1512486000659" expanded="true" signature="4994:5137" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="5029:5129" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="5058:5128" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="5146:5297" placeholder=" Calculates frequent k item sets, where count($samples) == $k - 1. ..." />
+            <marker date="1512486000659" expanded="true" signature="5347:6077" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="5415:6041" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="5454:6031" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="5541:5588" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="5719:5766" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="5830:6017" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="5892:5999" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="6086:6280" placeholder=" Calculates confidence for $set. Confidence is the relative amount of sets containing $subset which also contain ..." />
+            <marker date="1512486000659" expanded="true" signature="6341:6416" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="6425:6654" placeholder=" Calculates support for item set $sample. Support is the relative amount of sets containing $sample in the data ..." />
+            <marker date="1512486000659" expanded="true" signature="6700:6778" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="6787:6946" placeholder=" Counts occurrences of $sample as subset in data pool. ..." />
+            <marker date="1512486000659" expanded="true" signature="6994:7154" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="7022:7146" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="7035:7145" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="7084:7144" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="7163:7345" placeholder=" Returns true if set is an element of system. ..." />
+            <marker date="1512486000659" expanded="true" signature="7404:7551" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="7446:7543" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="7485:7542" placeholder="..." />
+            <marker date="1512486000659" expanded="true" signature="7560:7724" placeholder=" Returns true if subset is a (proper) subset of set by its items string representation. ..." />
+            <marker date="1512486000659" expanded="true" signature="7781:7862" placeholder="{...}" />
+            <marker date="1512486000659" expanded="true" signature="7871:8011" placeholder=" Returns true if string representation of items does not differ. ..." />
+            <marker date="1512486000659" expanded="true" signature="8067:8148" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82116246">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="e#44#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
