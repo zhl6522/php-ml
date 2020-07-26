@@ -12,3 +12,5 @@ k-近邻算法:
 朴素贝叶斯分类算法:
     http://blog.csdn.net/php_ajaxx/article/details/78881114
 
+## PHPer的技能图谱
+[技能图谱](https://github.com/zhl6522/PHPer)
